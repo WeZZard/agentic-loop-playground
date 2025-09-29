@@ -61,7 +61,7 @@ WHERE [incomplete_item_list], [completed_item_list] and [postponed_item_list] ar
 
 ## MANDATORY: PICK THE FIRST ITEM FROM [incomplete_item_list] AND EXECUTE IT
 
-YOU SHALL PICK THE FIRST ITEM FROM [incomplete_item_list] AND EXECUTE IT.
+YOU SHALL ONLY PICK THE FIRST ITEM FROM [incomplete_item_list] AND EXECUTE IT.
 
 YOU SHALL NOT EXECUTE ANY ITEM FROM [completed_item_list] OR [postponed_item_list].
 
