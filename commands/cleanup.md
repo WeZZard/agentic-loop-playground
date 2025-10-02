@@ -16,7 +16,7 @@ The outputs are in the following format.
 [file]:[line]:[content]
 ```
 
-You SHALL READ round each [line] in [file] and EXTRACT the [content] from all the found TODOs and FIXMEs, filtering out the ones can cannot apply with the restrictions of the platform, operating system, and required tools, then convert into a JSON object of the following format, using [incomplete_item_list] as the mnemonic:
+You SHALL READ round each [line] in [file] and EXTRACT the [content] from all the found TODOs and FIXMEs, filtering out the ones cannot be applied with the restrictions of the platform, operating system, and required tools, then convert into a JSON object of the following format, using [incomplete_item_list] as the mnemonic:
 
 ```json
 [
