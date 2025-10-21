@@ -1,0 +1,13 @@
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "Example project to demonstrate automated TODO/FIXME cleanup",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/test.js"
+  },
+  "keywords": ["example", "todo", "cleanup"],
+  "author": "",
+  "license": "MIT"
+}
